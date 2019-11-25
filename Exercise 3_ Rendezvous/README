@@ -1,0 +1,14 @@
+The objective of this lab is to demonstate how rodezvous works using semaphores as thanks to them it allows the program to enter and finish at the same time.
+ 
+1. The project has a GNU Licence
+2. It was written by Joseph Kehoe and edited by Michal Wojnowski to get it operational
+3. In order to get the project go to github.com/MichaelWoj/CDDLabs in order to download the project
+4. The folder contains:
+main.cpp: The page with all of the code 
+Doxyfile: A doxygen creation which allows quick documentation
+Makefile: Create a rule that each .o file depends on a .cpp file and deletes all the .o files 
+Mutex: The executable
+Semaphore.cpp and .h: The file containing the semaphore code and its headers 
+
+
+
